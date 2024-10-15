@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YourAppName</string>
+    <string-array name="course_options">
+        <item>Select Course </item> <!-- Placeholder item -->
+        <item>MCA-A</item>
+        <item>MCA-B</item>
+        <item>MCA-C</item>
+    </string-array>
+</resources>
